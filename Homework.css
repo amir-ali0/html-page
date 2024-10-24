@@ -1,0 +1,12 @@
+table, td, tr, th{
+    border: 3px solid black;
+}
+table{
+    border-collapse: collapse;
+}
+body{
+    background-color: pink
+}
+img{
+    mix-blend-mode: multiply;
+}
